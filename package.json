@@ -1,0 +1,15 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "dependencies": {
+    "realm": "^2.14.0",
+    "realm-mssql-adapters": "file:g:/js/mssql-test/realm-mssql-adapters-1.2.1-rc27.tgz"
+  }
+}
